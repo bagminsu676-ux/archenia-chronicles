@@ -1,0 +1,608 @@
+{
+  "version": 1,
+  "artDirection": "Korean fantasy webtoon, painterly cel shading, strong ink contours; event illustrations avoid showing the player avatar",
+  "totalEvents": 100,
+  "completed": 100,
+  "events": [
+    {
+      "id": "first-cry",
+      "order": 1,
+      "file": "assets/event-art/first-cry.png",
+      "status": "ready"
+    },
+    {
+      "id": "first-steps",
+      "order": 2,
+      "file": "assets/event-art/first-steps.png",
+      "status": "ready"
+    },
+    {
+      "id": "family-dinner",
+      "order": 3,
+      "file": "assets/event-art/family-dinner.png",
+      "status": "ready"
+    },
+    {
+      "id": "first-dream",
+      "order": 4,
+      "file": "assets/event-art/first-dream.png",
+      "status": "ready"
+    },
+    {
+      "id": "nurse-story",
+      "order": 5,
+      "file": "assets/event-art/nurse-story.png",
+      "status": "ready"
+    },
+    {
+      "id": "sword-trial",
+      "order": 6,
+      "file": "assets/event-art/sword-trial.png",
+      "status": "ready"
+    },
+    {
+      "id": "work-morning",
+      "order": 7,
+      "file": "assets/event-art/work-morning.png",
+      "status": "ready"
+    },
+    {
+      "id": "academy-exam",
+      "order": 8,
+      "file": "assets/event-art/academy-exam.png",
+      "status": "ready"
+    },
+    {
+      "id": "sibling-quarrel",
+      "order": 9,
+      "file": "assets/event-art/sibling-quarrel.png",
+      "status": "ready"
+    },
+    {
+      "id": "secret-grimoire",
+      "order": 10,
+      "file": "assets/event-art/secret-grimoire.png",
+      "status": "ready"
+    },
+    {
+      "id": "lost-child-snow",
+      "order": 11,
+      "file": "assets/event-art/lost-child-snow.png",
+      "status": "ready"
+    },
+    {
+      "id": "family-debt",
+      "order": 12,
+      "file": "assets/event-art/family-debt.png",
+      "status": "ready"
+    },
+    {
+      "id": "falling-star",
+      "order": 13,
+      "file": "assets/event-art/falling-star.png",
+      "status": "ready"
+    },
+    {
+      "id": "knight-trial",
+      "order": 14,
+      "file": "assets/event-art/knight-trial.png",
+      "status": "ready"
+    },
+    {
+      "id": "marriage-offer",
+      "order": 15,
+      "file": "assets/event-art/marriage-offer.png",
+      "status": "ready"
+    },
+    {
+      "id": "first-love",
+      "order": 16,
+      "file": "assets/event-art/first-love.png",
+      "status": "ready"
+    },
+    {
+      "id": "faction-front",
+      "order": 17,
+      "file": "assets/event-art/faction-front.png",
+      "status": "ready"
+    },
+    {
+      "id": "succession",
+      "order": 18,
+      "file": "assets/event-art/succession.png",
+      "status": "ready"
+    },
+    {
+      "id": "estate-management",
+      "order": 19,
+      "file": "assets/event-art/estate-management.png",
+      "status": "ready"
+    },
+    {
+      "id": "betrayal",
+      "order": 20,
+      "file": "assets/event-art/betrayal.png",
+      "status": "ready"
+    },
+    {
+      "id": "childbirth",
+      "order": 21,
+      "file": "assets/event-art/childbirth.png",
+      "status": "ready"
+    },
+    {
+      "id": "tower-call",
+      "order": 22,
+      "file": "assets/event-art/tower-call.png",
+      "status": "ready"
+    },
+    {
+      "id": "enemy-returns",
+      "order": 23,
+      "file": "assets/event-art/enemy-returns.png",
+      "status": "ready"
+    },
+    {
+      "id": "child-rebellion",
+      "order": 24,
+      "file": "assets/event-art/child-rebellion.png",
+      "status": "ready"
+    },
+    {
+      "id": "black-door",
+      "order": 25,
+      "file": "assets/event-art/black-door.png",
+      "status": "ready"
+    },
+    {
+      "id": "memoir",
+      "order": 26,
+      "file": "assets/event-art/memoir.png",
+      "status": "ready"
+    },
+    {
+      "id": "old-friend-dies",
+      "order": 27,
+      "file": "assets/event-art/old-friend-dies.png",
+      "status": "ready"
+    },
+    {
+      "id": "king-final-request",
+      "order": 28,
+      "file": "assets/event-art/king-final-request.png",
+      "status": "ready"
+    },
+    {
+      "id": "grandchild-talk",
+      "order": 29,
+      "file": "assets/event-art/grandchild-talk.png",
+      "status": "ready"
+    },
+    {
+      "id": "last-testament",
+      "order": 30,
+      "file": "assets/event-art/last-testament.png",
+      "status": "ready"
+    },
+    {
+      "id": "last-breath",
+      "order": 31,
+      "file": "assets/event-art/last-breath.png",
+      "status": "ready"
+    },
+    {
+      "id": "god-conversation",
+      "order": 32,
+      "file": "assets/event-art/god-conversation.png",
+      "status": "ready"
+    },
+    {
+      "id": "toddler-lantern",
+      "order": 33,
+      "file": "assets/event-art/toddler-lantern.png",
+      "status": "ready"
+    },
+    {
+      "id": "winter-fever",
+      "order": 34,
+      "file": "assets/event-art/winter-fever.png",
+      "status": "ready"
+    },
+    {
+      "id": "toy-sword",
+      "order": 35,
+      "file": "assets/event-art/toy-sword.png",
+      "status": "ready"
+    },
+    {
+      "id": "garden-pond",
+      "order": 36,
+      "file": "assets/event-art/garden-pond.png",
+      "status": "ready"
+    },
+    {
+      "id": "first-snow",
+      "order": 37,
+      "file": "assets/event-art/first-snow.png",
+      "status": "ready"
+    },
+    {
+      "id": "market-puppet",
+      "order": 38,
+      "file": "assets/event-art/market-puppet.png",
+      "status": "ready"
+    },
+    {
+      "id": "old-key",
+      "order": 39,
+      "file": "assets/event-art/old-key.png",
+      "status": "ready"
+    },
+    {
+      "id": "dwarf-lullaby",
+      "order": 40,
+      "file": "assets/event-art/dwarf-lullaby.png",
+      "status": "ready"
+    },
+    {
+      "id": "first-errand",
+      "order": 41,
+      "file": "assets/event-art/first-errand.png",
+      "status": "ready"
+    },
+    {
+      "id": "apprentice-choice",
+      "order": 42,
+      "file": "assets/event-art/apprentice-choice.png",
+      "status": "ready"
+    },
+    {
+      "id": "guild-test",
+      "order": 43,
+      "file": "assets/event-art/guild-test.png",
+      "status": "ready"
+    },
+    {
+      "id": "border-post",
+      "order": 44,
+      "file": "assets/event-art/border-post.png",
+      "status": "ready"
+    },
+    {
+      "id": "rune-apprentice",
+      "order": 45,
+      "file": "assets/event-art/rune-apprentice.png",
+      "status": "ready"
+    },
+    {
+      "id": "forest-spirits",
+      "order": 46,
+      "file": "assets/event-art/forest-spirits.png",
+      "status": "ready"
+    },
+    {
+      "id": "archive-scrap",
+      "order": 47,
+      "file": "assets/event-art/archive-scrap.png",
+      "status": "ready"
+    },
+    {
+      "id": "animal-rescue",
+      "order": 48,
+      "file": "assets/event-art/animal-rescue.png",
+      "status": "ready"
+    },
+    {
+      "id": "temple-choir",
+      "order": 49,
+      "file": "assets/event-art/temple-choir.png",
+      "status": "ready"
+    },
+    {
+      "id": "winter-shelter",
+      "order": 50,
+      "file": "assets/event-art/winter-shelter.png",
+      "status": "ready"
+    },
+    {
+      "id": "noble-ball",
+      "order": 51,
+      "file": "assets/event-art/noble-ball.png",
+      "status": "ready"
+    },
+    {
+      "id": "half-blood-reveal",
+      "order": 52,
+      "file": "assets/event-art/half-blood-reveal.png",
+      "status": "ready"
+    },
+    {
+      "id": "duel-provocation",
+      "order": 53,
+      "file": "assets/event-art/duel-provocation.png",
+      "status": "ready"
+    },
+    {
+      "id": "mercenary-offer",
+      "order": 54,
+      "file": "assets/event-art/mercenary-offer.png",
+      "status": "ready"
+    },
+    {
+      "id": "magic-awakening",
+      "order": 55,
+      "file": "assets/event-art/magic-awakening.png",
+      "status": "ready"
+    },
+    {
+      "id": "secret-courtship",
+      "order": 56,
+      "file": "assets/event-art/secret-courtship.png",
+      "status": "ready"
+    },
+    {
+      "id": "inheritance-test",
+      "order": 57,
+      "file": "assets/event-art/inheritance-test.png",
+      "status": "ready"
+    },
+    {
+      "id": "dragon-rider",
+      "order": 58,
+      "file": "assets/event-art/dragon-rider.png",
+      "status": "ready"
+    },
+    {
+      "id": "assassin-contract",
+      "order": 59,
+      "file": "assets/event-art/assassin-contract.png",
+      "status": "ready"
+    },
+    {
+      "id": "desert-ruins",
+      "order": 60,
+      "file": "assets/event-art/desert-ruins.png",
+      "status": "ready"
+    },
+    {
+      "id": "pirate-capture",
+      "order": 61,
+      "file": "assets/event-art/pirate-capture.png",
+      "status": "ready"
+    },
+    {
+      "id": "court-debate",
+      "order": 62,
+      "file": "assets/event-art/court-debate.png",
+      "status": "ready"
+    },
+    {
+      "id": "plague-village",
+      "order": 63,
+      "file": "assets/event-art/plague-village.png",
+      "status": "ready"
+    },
+    {
+      "id": "siblings-inheritance",
+      "order": 64,
+      "file": "assets/event-art/siblings-inheritance.png",
+      "status": "ready"
+    },
+    {
+      "id": "rival-school",
+      "order": 65,
+      "file": "assets/event-art/rival-school.png",
+      "status": "ready"
+    },
+    {
+      "id": "pilgrim-road",
+      "order": 66,
+      "file": "assets/event-art/pilgrim-road.png",
+      "status": "ready"
+    },
+    {
+      "id": "harvest-crisis",
+      "order": 67,
+      "file": "assets/event-art/harvest-crisis.png",
+      "status": "ready"
+    },
+    {
+      "id": "royal-betrothal",
+      "order": 68,
+      "file": "assets/event-art/royal-betrothal.png",
+      "status": "ready"
+    },
+    {
+      "id": "merchant-route",
+      "order": 69,
+      "file": "assets/event-art/merchant-route.png",
+      "status": "ready"
+    },
+    {
+      "id": "court-spy",
+      "order": 70,
+      "file": "assets/event-art/court-spy.png",
+      "status": "ready"
+    },
+    {
+      "id": "guild-strike",
+      "order": 71,
+      "file": "assets/event-art/guild-strike.png",
+      "status": "ready"
+    },
+    {
+      "id": "curse-investigation",
+      "order": 72,
+      "file": "assets/event-art/curse-investigation.png",
+      "status": "ready"
+    },
+    {
+      "id": "orphanage-funding",
+      "order": 73,
+      "file": "assets/event-art/orphanage-funding.png",
+      "status": "ready"
+    },
+    {
+      "id": "naval-blockade",
+      "order": 74,
+      "file": "assets/event-art/naval-blockade.png",
+      "status": "ready"
+    },
+    {
+      "id": "dragon-egg",
+      "order": 75,
+      "file": "assets/event-art/dragon-egg.png",
+      "status": "ready"
+    },
+    {
+      "id": "rebellion-petition",
+      "order": 76,
+      "file": "assets/event-art/rebellion-petition.png",
+      "status": "ready"
+    },
+    {
+      "id": "heir-missing",
+      "order": 77,
+      "file": "assets/event-art/heir-missing.png",
+      "status": "ready"
+    },
+    {
+      "id": "alchemist-experiment",
+      "order": 78,
+      "file": "assets/event-art/alchemist-experiment.png",
+      "status": "ready"
+    },
+    {
+      "id": "relic-auction",
+      "order": 79,
+      "file": "assets/event-art/relic-auction.png",
+      "status": "ready"
+    },
+    {
+      "id": "family-name-crisis",
+      "order": 80,
+      "file": "assets/event-art/family-name-crisis.png",
+      "status": "ready"
+    },
+    {
+      "id": "successor-training",
+      "order": 81,
+      "file": "assets/event-art/successor-training.png",
+      "status": "ready"
+    },
+    {
+      "id": "retired-knight",
+      "order": 82,
+      "file": "assets/event-art/retired-knight.png",
+      "status": "ready"
+    },
+    {
+      "id": "city-fire",
+      "order": 83,
+      "file": "assets/event-art/city-fire.png",
+      "status": "ready"
+    },
+    {
+      "id": "plague-doctor",
+      "order": 84,
+      "file": "assets/event-art/plague-doctor.png",
+      "status": "ready"
+    },
+    {
+      "id": "kingdom-treaty",
+      "order": 85,
+      "file": "assets/event-art/kingdom-treaty.png",
+      "status": "ready"
+    },
+    {
+      "id": "lost-memory",
+      "order": 86,
+      "file": "assets/event-art/lost-memory.png",
+      "status": "ready"
+    },
+    {
+      "id": "old-rival-appeal",
+      "order": 87,
+      "file": "assets/event-art/old-rival-appeal.png",
+      "status": "ready"
+    },
+    {
+      "id": "ancient-tree-dying",
+      "order": 88,
+      "file": "assets/event-art/ancient-tree-dying.png",
+      "status": "ready"
+    },
+    {
+      "id": "legacy-school",
+      "order": 89,
+      "file": "assets/event-art/legacy-school.png",
+      "status": "ready"
+    },
+    {
+      "id": "volcano-evacuation",
+      "order": 90,
+      "file": "assets/event-art/volcano-evacuation.png",
+      "status": "ready"
+    },
+    {
+      "id": "secret-descendant",
+      "order": 91,
+      "file": "assets/event-art/secret-descendant.png",
+      "status": "ready"
+    },
+    {
+      "id": "border-ghosts",
+      "order": 92,
+      "file": "assets/event-art/border-ghosts.png",
+      "status": "ready"
+    },
+    {
+      "id": "elderly-journey",
+      "order": 93,
+      "file": "assets/event-art/elderly-journey.png",
+      "status": "ready"
+    },
+    {
+      "id": "apprentice-farewell",
+      "order": 94,
+      "file": "assets/event-art/apprentice-farewell.png",
+      "status": "ready"
+    },
+    {
+      "id": "grandchild-rebellion",
+      "order": 95,
+      "file": "assets/event-art/grandchild-rebellion.png",
+      "status": "ready"
+    },
+    {
+      "id": "winter-solstice",
+      "order": 96,
+      "file": "assets/event-art/winter-solstice.png",
+      "status": "ready"
+    },
+    {
+      "id": "final-artifact",
+      "order": 97,
+      "file": "assets/event-art/final-artifact.png",
+      "status": "ready"
+    },
+    {
+      "id": "starfall-anniversary",
+      "order": 98,
+      "file": "assets/event-art/starfall-anniversary.png",
+      "status": "ready"
+    },
+    {
+      "id": "last-voyage",
+      "order": 99,
+      "file": "assets/event-art/last-voyage.png",
+      "status": "ready"
+    },
+    {
+      "id": "final-choice-family",
+      "order": 100,
+      "file": "assets/event-art/final-choice-family.png",
+      "status": "ready"
+    }
+  ]
+}

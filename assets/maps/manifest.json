@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "format": "png",
+  "individualMapResolution": { "width": 1536, "height": 1024, "minimumWidth": 1536 },
+  "labels": "HTML overlays; map images intentionally contain no text",
+  "world": {
+    "name": "아르케니아",
+    "asset": "assets/maps/world-map.png",
+    "continents": [
+      { "id": "arken", "name": "아르켄", "asset": "assets/maps/continent-arken.png", "kingdoms": ["arken-empire"] },
+      { "id": "northel", "name": "노르헬", "asset": "assets/maps/continent-northel.png", "kingdoms": ["kardin", "skald", "frostguard"] },
+      { "id": "seiren", "name": "세이렌", "asset": "assets/maps/continent-seiren.png", "kingdoms": ["elowin", "myrnas", "greenhollow"] },
+      { "id": "valtri", "name": "발트리", "asset": "assets/maps/continent-valtri.png", "kingdoms": ["valen", "corsea", "liberta"] },
+      { "id": "zandra", "name": "잔드라", "asset": "assets/maps/continent-zandra.png", "kingdoms": ["zahar", "osiris", "khalifa"] }
+    ]
+  },
+  "kingdoms": [
+    { "id": "arken-empire", "name": "아르켄 제국", "continent": "arken", "asset": "assets/maps/kingdom-arken-empire.png", "capital": "솔라리스", "localMap": "assets/maps/region-arken-empire.png" },
+    { "id": "kardin", "name": "카르딘 왕국", "continent": "northel", "asset": "assets/maps/kingdom-kardin.png", "capital": "카르딘홀", "localMap": "assets/maps/region-kardin.png" },
+    { "id": "skald", "name": "스칼드 왕국", "continent": "northel", "asset": "assets/maps/kingdom-skald.png", "capital": "스칼드하임", "localMap": "assets/maps/region-skald.png" },
+    { "id": "frostguard", "name": "프로스트가드 왕국", "continent": "northel", "asset": "assets/maps/kingdom-frostguard.png", "capital": "프로스트홀", "localMap": "assets/maps/region-frostguard.png" },
+    { "id": "elowin", "name": "엘로윈 왕국", "continent": "seiren", "asset": "assets/maps/kingdom-elowin.png", "capital": "엘로윈", "localMap": "assets/maps/region-elowin.png" },
+    { "id": "myrnas", "name": "미르나스 왕국", "continent": "seiren", "asset": "assets/maps/kingdom-myrnas.png", "capital": "미르나스", "localMap": "assets/maps/region-myrnas.png" },
+    { "id": "greenhollow", "name": "그린할로우 왕국", "continent": "seiren", "asset": "assets/maps/kingdom-greenhollow.png", "capital": "그린할로우", "localMap": "assets/maps/region-greenhollow.png" },
+    { "id": "valen", "name": "발렌 왕국", "continent": "valtri", "asset": "assets/maps/kingdom-valen.png", "capital": "발렌시아", "localMap": "assets/maps/region-valen.png" },
+    { "id": "corsea", "name": "코르세아 왕국", "continent": "valtri", "asset": "assets/maps/kingdom-corsea.png", "capital": "코르세아", "localMap": "assets/maps/region-corsea.png" },
+    { "id": "liberta", "name": "리베르타 왕국", "continent": "valtri", "asset": "assets/maps/kingdom-liberta.png", "capital": "리베르타", "localMap": "assets/maps/region-liberta.png" },
+    { "id": "zahar", "name": "자하르 왕국", "continent": "zandra", "asset": "assets/maps/kingdom-zahar.png", "capital": "자하르", "localMap": "assets/maps/region-zahar.png" },
+    { "id": "osiris", "name": "오시리스 왕국", "continent": "zandra", "asset": "assets/maps/kingdom-osiris.png", "capital": "오시리스", "localMap": "assets/maps/region-osiris.png" },
+    { "id": "khalifa", "name": "칼리파 왕국", "continent": "zandra", "asset": "assets/maps/kingdom-khalifa.png", "capital": "칼리파", "localMap": "assets/maps/region-khalifa.png" }
+  ]
+}

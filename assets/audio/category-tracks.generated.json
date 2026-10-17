@@ -1,0 +1,278 @@
+{
+  "method": "Original independent additive synthesis; not sampled from the user-provided MP3.",
+  "sampleRateHz": 22050,
+  "channels": 2,
+  "bits": 16,
+  "tracks": [
+    {
+      "id": "family-family-hearth-at-dusk",
+      "category": "family",
+      "title": "Hearth at Dusk",
+      "file": {
+        "file": "family-hearth-at-dusk.wav",
+        "durationSeconds": 48,
+        "tempoBpm": 80,
+        "sizeBytes": 4233644,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -18.38,
+        "clippedSamples": 0,
+        "style": "warm piano-like plucks and embracing strings"
+      }
+    },
+    {
+      "id": "family-family-letters-in-winter",
+      "category": "family",
+      "title": "Letters in Winter",
+      "file": {
+        "file": "family-letters-in-winter.wav",
+        "durationSeconds": 45.714,
+        "tempoBpm": 84,
+        "sizeBytes": 4032044,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -17.58,
+        "clippedSamples": 0,
+        "style": "tender reunion, light bell and harp answer"
+      }
+    },
+    {
+      "id": "growth-growth-first-steps",
+      "category": "growth",
+      "title": "First Steps",
+      "file": {
+        "file": "growth-first-steps.wav",
+        "durationSeconds": 38.4,
+        "tempoBpm": 100,
+        "sizeBytes": 3386924,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -17.36,
+        "clippedSamples": 0,
+        "style": "bright pizzicato and rising woodwind line"
+      }
+    },
+    {
+      "id": "growth-growth-open-road",
+      "category": "growth",
+      "title": "Open Road",
+      "file": {
+        "file": "growth-open-road.wav",
+        "durationSeconds": 36.923,
+        "tempoBpm": 104,
+        "sizeBytes": 3256660,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -16.77,
+        "clippedSamples": 0,
+        "style": "forward motion, light percussion and expanding strings"
+      }
+    },
+    {
+      "id": "politics-politics-council-chamber",
+      "category": "politics",
+      "title": "The Council Chamber",
+      "file": {
+        "file": "politics-council-chamber.wav",
+        "durationSeconds": 49.231,
+        "tempoBpm": 78,
+        "sizeBytes": 4342200,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -17.36,
+        "clippedSamples": 0,
+        "style": "measured low-string ostinato and restrained horns"
+      }
+    },
+    {
+      "id": "politics-politics-crown-of-ash",
+      "category": "politics",
+      "title": "Crown of Ash",
+      "file": {
+        "file": "politics-crown-of-ash.wav",
+        "durationSeconds": 46.829,
+        "tempoBpm": 82,
+        "sizeBytes": 4130388,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -17.75,
+        "clippedSamples": 0,
+        "style": "tense royal intrigue, slow horn swells"
+      }
+    },
+    {
+      "id": "war-war-march-before-dawn",
+      "category": "war",
+      "title": "March Before Dawn",
+      "file": {
+        "file": "war-march-before-dawn.wav",
+        "durationSeconds": 36.923,
+        "tempoBpm": 104,
+        "sizeBytes": 3256660,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -17.55,
+        "clippedSamples": 0,
+        "style": "weighty frame-drum pulse with determined brass"
+      }
+    },
+    {
+      "id": "war-war-smoke-over-the-pass",
+      "category": "war",
+      "title": "Smoke over the Pass",
+      "file": {
+        "file": "war-smoke-over-the-pass.wav",
+        "durationSeconds": 35.556,
+        "tempoBpm": 108,
+        "sizeBytes": 3136044,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -17.18,
+        "clippedSamples": 0,
+        "style": "battle aftermath, low brass and urgent bowed strings"
+      }
+    },
+    {
+      "id": "love-love-glance-across-the-hall",
+      "category": "love",
+      "title": "A Glance Across the Hall",
+      "file": {
+        "file": "love-glance-across-the-hall.wav",
+        "durationSeconds": 45.714,
+        "tempoBpm": 84,
+        "sizeBytes": 4032044,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -17.81,
+        "clippedSamples": 0,
+        "style": "intimate solo strings and soft harp"
+      }
+    },
+    {
+      "id": "love-love-vow-beneath-the-boughs",
+      "category": "love",
+      "title": "Vow beneath the Boughs",
+      "file": {
+        "file": "love-vow-beneath-the-boughs.wav",
+        "durationSeconds": 43.636,
+        "tempoBpm": 88,
+        "sizeBytes": 3848772,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -18.31,
+        "clippedSamples": 0,
+        "style": "a fuller vow theme with a warm sustained answer"
+      }
+    },
+    {
+      "id": "adventure-adventure-beyond-the-gate",
+      "category": "adventure",
+      "title": "Beyond the Gate",
+      "file": {
+        "file": "adventure-beyond-the-gate.wav",
+        "durationSeconds": 41.739,
+        "tempoBpm": 92,
+        "sizeBytes": 3681436,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -17.85,
+        "clippedSamples": 0,
+        "style": "traveling eighth-note strings and open woodwind melody"
+      }
+    },
+    {
+      "id": "adventure-adventure-lanterns-in-the-ruin",
+      "category": "adventure",
+      "title": "Lanterns in the Ruin",
+      "file": {
+        "file": "adventure-lanterns-in-the-ruin.wav",
+        "durationSeconds": 39.184,
+        "tempoBpm": 98,
+        "sizeBytes": 3456044,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -18.68,
+        "clippedSamples": 0,
+        "style": "curiosity and danger, wooden flute and luminous plucks"
+      }
+    },
+    {
+      "id": "mystic-mystic-dream-of-falling-stars",
+      "category": "mystic",
+      "title": "Dream of Falling Stars",
+      "file": {
+        "file": "mystic-dream-of-falling-stars.wav",
+        "durationSeconds": 49.231,
+        "tempoBpm": 78,
+        "sizeBytes": 4342200,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -19.89,
+        "clippedSamples": 0,
+        "style": "glass bells, suspended chords and choir bloom"
+      }
+    },
+    {
+      "id": "mystic-mystic-whispers-at-the-root",
+      "category": "mystic",
+      "title": "Whispers at the Root",
+      "file": {
+        "file": "mystic-whispers-at-the-root.wav",
+        "durationSeconds": 46.829,
+        "tempoBpm": 82,
+        "sizeBytes": 4130388,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -18.43,
+        "clippedSamples": 0,
+        "style": "ancient spirit voices and resonant glass tones"
+      }
+    },
+    {
+      "id": "dark-dark-sealed-letter",
+      "category": "dark",
+      "title": "The Sealed Letter",
+      "file": {
+        "file": "dark-sealed-letter.wav",
+        "durationSeconds": 49.231,
+        "tempoBpm": 78,
+        "sizeBytes": 4342200,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -19.24,
+        "clippedSamples": 0,
+        "style": "quiet low drone with uneasy close intervals"
+      }
+    },
+    {
+      "id": "dark-dark-under-the-black-moon",
+      "category": "dark",
+      "title": "Under the Black Moon",
+      "file": {
+        "file": "dark-under-the-black-moon.wav",
+        "durationSeconds": 46.829,
+        "tempoBpm": 82,
+        "sizeBytes": 4130388,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -19.42,
+        "clippedSamples": 0,
+        "style": "low dissonance, muted bells and shadowed strings"
+      }
+    },
+    {
+      "id": "death-death-last-breath",
+      "category": "death",
+      "title": "Last Breath",
+      "file": {
+        "file": "death-last-breath.wav",
+        "durationSeconds": 41.143,
+        "tempoBpm": 70,
+        "sizeBytes": 3628844,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -18.67,
+        "clippedSamples": 0,
+        "style": "slow single-line Fate motif with a quiet bell"
+      }
+    },
+    {
+      "id": "death-death-names-in-the-memorial",
+      "category": "death",
+      "title": "Names in the Memorial",
+      "file": {
+        "file": "death-names-in-the-memorial.wav",
+        "durationSeconds": 38.919,
+        "tempoBpm": 74,
+        "sizeBytes": 3432696,
+        "peakDbfs": -1.21,
+        "rmsDbfs": -18.79,
+        "clippedSamples": 0,
+        "style": "gentle remembrance and a resolved, luminous ending"
+      }
+    }
+  ]
+}

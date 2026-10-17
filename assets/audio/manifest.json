@@ -1,0 +1,139 @@
+{
+  "project": "Chronicles of Archenia",
+  "language": "ko",
+  "license": "The active main theme is a user-provided MP3. Rights and attribution follow the source supplied by the project owner.",
+  "rendering": {
+    "method": "User-provided MP3",
+    "source": "C:/Users/bagmi/Downloads/Where_the_Mountains_Sleep.mp3",
+    "limitations": "Playback is configured in the game, but was not auditioned in the coding environment."
+  },
+  "tracks": [
+    {
+      "id": "main-theme",
+      "title": "Where the Mountains Sleep",
+      "file": "where-the-mountains-sleep.mp3",
+      "role": "main theme / life simulation",
+      "source": "User-provided by project owner",
+      "format": {
+        "container": "MP3",
+        "codec": "MPEG audio",
+        "sampleRateHz": 44100,
+        "estimatedBitrateKbps": 192,
+        "channels": 2,
+        "durationSeconds": 176.93,
+        "sizeBytes": 2849291
+      },
+      "renderQa": {
+        "auditioned": false,
+        "auditionNote": "Not auditioned in the coding environment."
+      }
+    },
+    {
+      "id": "event-category-default",
+      "title": "Beneath the Ancient Canopy",
+      "file": "beneath-the-ancient-canopy.mp3",
+      "role": "shared event-category theme (family, growth, politics, war, love, adventure, mystic, dark, death)",
+      "source": "User-provided by project owner",
+      "format": {
+        "container": "MP3",
+        "codec": "MPEG audio",
+        "sizeBytes": 4309431
+      },
+      "renderQa": {
+        "auditioned": false,
+        "auditionNote": "Not auditioned in the coding environment."
+      }
+    }
+  ],
+  "categoryTrackManifest": "category-tracks.generated.json",
+  "categoryTrackRendering": {
+    "source": "Original independent procedural compositions; none are sampled, copied, or remixed from the supplied Beyond the Silver Gate MP3.",
+    "format": "WAV PCM signed 16-bit stereo, 22050 Hz",
+    "fileCount": 18,
+    "totalBytes": 68799576,
+    "durationRangeSeconds": [
+      35.556,
+      49.231
+    ],
+    "auditioned": false,
+    "auditionNote": "No audio output device/player was available for listening QA. File headers, durations, sample peaks and clipping were checked programmatically."
+  },
+  "categoryVariantPlan": {
+    "sharedMotif": "The owner-supplied main MP3 is kept intact and is not sampled, copied, or remixed. Category cues are independently composed to match Archenia's emotional palette rather than quote its melody.",
+    "targets": [
+      {
+        "category": "family",
+        "palette": "felt piano, warm strings, gentle 3-beat sway",
+        "variants": [
+          "Hearth at Dusk — home / childhood",
+          "Letters in Winter — reunion / remembrance"
+        ]
+      },
+      {
+        "category": "growth",
+        "palette": "pizzicato strings, woodblock-like soft percussion, ascending harmony",
+        "variants": [
+          "First Steps — childhood / learning",
+          "Open Road — coming of age"
+        ]
+      },
+      {
+        "category": "politics",
+        "palette": "low string ostinato, restrained horn-like chords, measured pulse",
+        "variants": [
+          "The Council Chamber — negotiation",
+          "Crown of Ash — succession / intrigue"
+        ]
+      },
+      {
+        "category": "war",
+        "palette": "low frame-drum pulse, cellos, compact brass-like swells",
+        "variants": [
+          "March Before Dawn — preparation",
+          "Smoke over the Pass — battle / aftermath"
+        ]
+      },
+      {
+        "category": "love",
+        "palette": "harp, intimate solo-string line, long breaths",
+        "variants": [
+          "A Glance Across the Hall — first love",
+          "Vow beneath the Boughs — commitment / loss"
+        ]
+      },
+      {
+        "category": "adventure",
+        "palette": "traveling string pulse, airy woodwind lead, open fifths",
+        "variants": [
+          "Beyond the Gate — discovery",
+          "Lanterns in the Ruin — exploration"
+        ]
+      },
+      {
+        "category": "supernatural",
+        "palette": "glass-like bells, suspended chords, resonant low strings",
+        "variants": [
+          "Dream of Falling Stars — prophecy",
+          "Whispers at the Root — spirits / magic"
+        ]
+      },
+      {
+        "category": "dark",
+        "palette": "quiet low drone, dissonant string color, sparse metallic resonance",
+        "variants": [
+          "The Sealed Letter — suspicion",
+          "Under the Black Moon — curse / forbidden magic"
+        ]
+      },
+      {
+        "category": "death",
+        "palette": "slow single-line Fate motif, subdued strings and bell",
+        "variants": [
+          "Last Breath — passing",
+          "Names in the Memorial — remembrance"
+        ]
+      }
+    ],
+    "deliveryPlan": "18 procedural draft cues were generated but are disabled in the game at the project owner request. Replace them with approved user-created tracks before reactivating category music."
+  }
+}
